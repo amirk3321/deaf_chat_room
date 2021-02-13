@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635649320459",
+    "firebase_url": "https://deafchatpro.firebaseio.com",
+    "project_id": "deafchatpro",
+    "storage_bucket": "deafchatpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635649320459:android:82bee7f0d1384476c2c90e",
+        "android_client_info": {
+          "package_name": "com.etechviral.deaf_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635649320459-p94ib5sh5oc2bcoqn69cc6nl0q20p34d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQIaHlv1x1p30aVCvk4mGoLwycwFbLK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635649320459-p94ib5sh5oc2bcoqn69cc6nl0q20p34d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
